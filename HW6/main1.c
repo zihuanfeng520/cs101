@@ -2,7 +2,7 @@
 
 int main()
 {
-   int i = 14;
+   int i = 10;
    if(i % 3==0)
     printf("Love ");
    if(i % 5==0)
